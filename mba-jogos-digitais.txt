@@ -1,0 +1,166 @@
+	Introdução aos Jogos Digitais
+		- História e origem dos jogos digitais
+			- Analisar o histórico das gerações de console.
+			- Diferenciar as principais características entre as gerações de console.
+			- Identificar os contextos de surgimento dos principais jogos on-line de cada geração de console.
+		
+		- Motivação do jogador
+			- Analisar as principais teorias dos jogos.
+			- Descrever as diferentes perspectivas das teorias que influenciam na motivação do jogador.
+			- Identificar os principais elementos que levam à motivação do jogador durante a experiência do jogar.
+		
+		- Jogos como cibertextos
+			- Descrever jogos como cibertextos.
+			- Conduzir a análise do discurso em jogos.
+			- Identificar técnicas de retórica procedural em jogos.
+		
+		- Game design e seus elementos
+			- Explicar os aspectos de um videogame e como eles funcionam entre si.
+			- Descrever o game design como a base de funcionamento do jogo, composto por elementos de todas as outras partes do jogo que se combinam para a experiência do jogador.
+			- Apresentar a divisão entre os quatro principais elementos do ​​​​​​​game design.
+	
+	Game Design I	
+		- Construções de desafios
+			- Definir desafio em diferentes tipos de jogos.
+			- Analisar desafios em jogos segundo o modelo CCST.
+			- Expandir, evoluir e reconfigurar desafios em um projeto.
+		
+		- Mecânicas de jogos
+			- Definir os conceitos básicos das mecânicas de jogos.
+			- Conduzir um roteiro explicativo com os conceitos básicos ​​​​​​​das mecânicas.
+			- Explorar exemplos da aplicação prática de mecânicas em jogos.
+		
+		- Progressão
+			- Abordar o conceito de progressão e suas principais características.
+			- Relacionar o conceito de progressão ao level design e aos demais métodos de progressão.
+			- Explorar a condução de progressão em um exemplo de jogo.
+		
+		- Contexto em jogos
+			- Reconhecer a importância da elaboração do contexto do jogo.
+			- Identificar os principais elementos relacionados ao contexto do jogo.
+			- Analisar o contexto de um jogo como jogador.
+	
+	Game Design II
+		- Sistemas em jogos
+			- Definir as possibilidades de sistemas nos jogos.
+			- Apresentar as relações dos sistemas com os elementos do jogo.
+			- Exemplificar o uso de sistemas em jogos.
+		
+		- Protótipo
+			- Explorar as características de conceituação para um protótipo de jogo.
+			- Explicar os aspectos de desenvolvimento para um protótipo de jogo.
+			- Descrever os elementos de implementação para um protótipo de jogo.
+		
+		- Documento de design de jogos (GDD)
+			- Definir Game Design Document (GDD) e as boas práticas em ​​​​​​​sua utilização.
+			- Descrever os possíveis formatos e extensão de um GDD.
+			- Exemplificar a criação do GDD de jogos clássicos.
+		
+		- Greenlight
+			- Discutir os principais aspectos considerados na tomada de decisão ​​​​​​​de um bom protótipo.
+			- Reconhecer os aspectos importantes de um bom core loop para ​​​​​​​um protótipo.
+			- Relacionar os problemas e as soluções mais comuns direcionados ​​​​​​​aos protótipos.
+		
+	Produção de Jogos com GameMaker
+		- Introdução ao GameMaker Studio com instruções de download, instalação e overview da ferramenta
+			- Definir a ferramenta de desenvolvimento gamemaker.
+			- Conduzir o processo de configuração da gamemaker: download, instalação e criação de conta.
+			- Descrever uma visão geral da interface da ferramenta gamemaker ​​​​​​​e suas funcionalidades.
+		
+		- Desenvolvimento de jogos com GameMaker Studio sob a perspectiva do jogo Breakthrough Arcade
+			- Explorar os elementos básicos para o desenvolvimento de um jogo com GameMaker.
+			- Aplicar o uso da funcionalidade de DnD (Drag and Drop) para jogos em GameMaker.
+			- Exemplificar o uso dos elementos básicos e das funcionalidades do GameMaker, baseado no jogo Breakthrough Arcade.
+		
+		- Desenvolvimento de jogos com GameMaker Studio sob a perspectiva do jogo Simple Platformer
+			- Explorar as funcionalidades de criação de sprites, tilesets e sons.
+			- Diferenciar as funcionalidades de objetos e salas.
+			- Exemplificar o uso das funcionalidades de sprites, tilesets, sons, objetos e salas, a partir do jogo Simple Platformer.
+		
+		- Introdução ao GameMaker Language (GML)
+			- Conceituar os aspectos gerais da linguagem de script GameMaker Language (GML).
+			- Descrever a transição de jogos em DnD para GML.
+			- Discutir exemplos de jogos desenvolvidos em GML.
+		
+	Produção de Jogos com GameMaker II
+		- Criação inicial de jogos com GameMaker Language (GML)
+			- Analisar a estrutura básica do código e suas funções.
+			- Diferenciar scripts, comentários e palavras-chave reservadas.
+			- Explorar variáveis, endereçamento e outras instâncias.
+		
+		- Criação intermediária de jogos com GameMaker Language (GML)
+			- Analisar a ordem de avaliação, os tipos de dados e as matrizes.
+			- Relacionar atribuições, expressões e acessadores.
+			- Reconhecer as características da linguagem.
+		
+		- Ferramenta Trello para a gestão de projeto de jogos
+			- Reconhecer a utilidade da ferramenta de gestão de projeto Trello.
+			- Identificar o processo de configuração inicial da ferramenta e suas principais funcionalidades.
+			- Elaborar o acompanhamento de um projeto criado no Trello.
+		
+		- Ferramenta HacknPlan para a gestão de projeto de jogos
+			- Descrever os principais aspectos da ferramenta de gestão de projeto HacknPlan.
+			- Demonstrar as principais funcionalidades da ferramenta e sua configuração inicial.
+			- Exemplificar o uso prático de um projeto criado no HacknPlan.
+		
+	Criação de Conteúdo com Twine	
+		- Histórias dos jogos-texto
+			- Descrever o contexto histórico dos jogos-texto.
+			- Relacionar ficção interativa com roguelike.
+			- Exemplificar as características dos principais jogos-texto.
+		
+		- Narrativa em jogos-texto com Twine
+			- Explicar os fundamentos da narrativa em jogos.
+​​​​​​			- Conceituar agência.
+​​​​​​​			- Descrever os diferentes tipos de escolhas e seus formatos.
+		
+		- Introdução à ferramenta de desenvolvimento de jogos Twine
+			- Identificar os princípios básicos no uso do Twine.
+			- Analisar as principais funcionalidades do Twine: interface e elementos.
+			- Conduzir o desenvolvimento de um jogo simples utilizando o Twine.
+		
+		- A formatação do jogo com a Twine
+			- Expandir a compreensão dos recursos de formatação da Twine.
+			- Explorar os elementos visuais da Twine.
+			- Analisar áudios e efeitos sonoros da Twine.
+	
+	Criação de Conteúdo com Twine II
+		- Gêneros e clichês da narrativa em jogos-texto
+			- Reconhecer o papel da narrativa no desenvolvimento de jogos-texto.
+			- Explorar os gêneros de jogos-texto e suas principais características.
+			- Avaliar os clichês explorados nos jogos-texto.
+		
+		- Trabalhando com objetos na Twine
+			- Explorar o conhecimento de lógica de programação na Twine: variáveis  e condicionais.
+			- Relacionar o uso de objetos na Twine.
+			- Descrever os principais aspectos do gerenciamento de quests e inventários.
+		
+		- O desenvolvimento do arco narrativo em jogos-texto
+			- Discutir sobre o planejamento do arco narrativo em jogos-texto.
+			- Relacionar os conceitos de catálise, stasis e diagramação da história em jogos-texto.
+			- Reconhecer a aplicabilidade da Jornada do Herói na narrativa de jogos-texto.
+		
+		- Publicando seu jogo na Twine
+			- Descrever os formatos e as práticas de publicação da Twine.
+			- Identificar as plataformas para possível publicação.
+			- Conduzir o processo de publicação de um jogo desenvolvido na Twine.
+	
+	Criação de Conteúdo com Twine III
+		- Técnicas de engajamento em jogos-texto
+			- Relacionar as principais técnicas de engajamento.
+			- Explorar os aspectos de uma narrativa coerente e justificada para o desenvolvimento de jogos-texto.
+			- ​​​​​​​Propor a utilização das técnicas de engajamento.
+		
+		- Técnicas de feedback para jogos-texto
+			- Identificar as principais técnicas de feedback em projetos de jogos de equipes presenciais.
+			- Relacionar reviews de jogos-texto, abordando a sua interpretabilidade.
+			- Elaborar um estudo de caso com review de um jogo-texto, ​​​​​​​explorando a sua coerência.
+		
+		- Desafios do feedback on-line
+			- Descrever técnicas de feedback on-line.
+			- ​​​​​​​Identificar os desafios do feedback on-line.
+			- Relacionar os principais reviewers de jogos e sua importância para o sucesso do jogo.
+		- Futuro da narrativa interativa
+			- Conceituar jogos narrativos e suas principais contribuições.
+			- Identificar tendências para a narrativa interativa.
+			- Reconhecer o papel da inteligência artificial em jogos narrativos.
